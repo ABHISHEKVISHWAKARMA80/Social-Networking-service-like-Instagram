@@ -8,9 +8,9 @@ c)PHP
 e)SQL
 
 Software Used:
-a)Android Studio
-b)Notepad++
-c)for Data Base:000webhost(for storing the information) 
+a) Android Studio
+b )Notepad++
+c) for Data Base:000webhost(for storing the information) 
 
 
 
