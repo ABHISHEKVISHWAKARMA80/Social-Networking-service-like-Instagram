@@ -1,0 +1,12 @@
+Steps for making an app:
+prerequisite: a)Basic Understanding of Java(classes,objects and Inheritance),DBMS,PHP,SQL.
+              b)PC with minimum 4GB RAM and Android Device.
+1.first Install Android Studio and java JDK
+2.go to the new project.
+3.write your application name.
+4.Select minimum SDK
+5.select blank activity.
+6.finally start coding.(start making app).
+
+XML is used for design part(TextView and color it, position it, margin it, padding it etc.).
+JAVA is used for inner part of the app,it interact with activity.(how activity functioned).
